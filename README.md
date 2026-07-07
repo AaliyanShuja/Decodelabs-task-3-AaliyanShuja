@@ -82,14 +82,6 @@ Every recommendation includes human-readable reasons:
 | **Feature engineering** | Genre one-hot vectors, tag vectors, era/pop normalization |
 | **Interactive UX** | `main.py` -- menu system with validation |
 
-## Extensions to Try
-
-- Save/load profiles to a JSON file so recommendations persist
-- Add collaborative filtering ("people who liked X also liked Y")
-- Weighted k-NN style: closer genre matches get exponentially higher scores
-- Hybrid approach: blend content-based score with collaborative signal
-- Add a "surprise me" mode that blends high-score with some diversity
-
 ---
 
 *All 3 projects complete! Portfolio-ready.*
