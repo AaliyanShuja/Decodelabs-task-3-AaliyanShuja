@@ -84,4 +84,3 @@ Every recommendation includes human-readable reasons:
 
 ---
 
-*All 3 projects complete! Portfolio-ready.*
